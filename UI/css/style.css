@@ -1,0 +1,38 @@
+body {
+	font-family: Arial;
+	margin: 0;
+	padding: 0;
+	color: #72A9DB;
+}
+#main-container {
+	width:100vw;
+}
+.box {
+	width: 70%;
+    margin: 5% auto;
+    border: 1px solid #72A9DB;
+}
+.inner {
+	margin: 3% auto;
+    display: table;
+}
+.social-count {
+	text-align: center;
+	
+}
+#btn {
+	cursor: pointer;
+	color: #fff;
+    background: #A4BACE;
+    border: 2px solid #A4BACE;
+}
+.result-box {
+	height: 50px;
+    margin-top: 9%;
+    background: #DEEBF7;
+    border: 1px solid;
+}
+.fb-likes {
+	margin: 3%;
+    text-align: center;
+}
